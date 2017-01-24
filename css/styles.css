@@ -1,0 +1,11 @@
+.important {
+  font-weight: bolder;
+  font-style: italic;
+}
+.headers{
+  text-align: center;
+  font-family: arial, helvetical, san-serif;
+}
+.list{
+  font-variant: small-caps;
+}
